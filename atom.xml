@@ -5,9 +5,9 @@
   <subtitle>这是王正鑫的技术博客</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://wangzx12321.github.io/"/>
   <updated>2020-05-15T04:37:07.690Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://wangzx12321.github.io/</id>
   
   <author>
     <name>王正鑫</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>TEST</title>
-    <link href="http://yoursite.com/2020/05/15/TEST/"/>
-    <id>http://yoursite.com/2020/05/15/TEST/</id>
+    <link href="http://wangzx12321.github.io/2020/05/15/TEST/"/>
+    <id>http://wangzx12321.github.io/2020/05/15/TEST/</id>
     <published>2020-05-15T04:37:07.000Z</published>
     <updated>2020-05-15T04:37:07.690Z</updated>
     
@@ -36,21 +36,21 @@
     </summary>
     
     
-      <category term="categories" scheme="http://yoursite.com/categories/categories/"/>
+      <category term="categories" scheme="http://wangzx12321.github.io/categories/categories/"/>
     
-      <category term="test" scheme="http://yoursite.com/categories/categories/test/"/>
+      <category term="test" scheme="http://wangzx12321.github.io/categories/categories/test/"/>
     
     
-      <category term="tags" scheme="http://yoursite.com/tags/tags/"/>
+      <category term="tags" scheme="http://wangzx12321.github.io/tags/tags/"/>
     
-      <category term="test" scheme="http://yoursite.com/tags/test/"/>
+      <category term="test" scheme="http://wangzx12321.github.io/tags/test/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/05/14/hello-world/"/>
-    <id>http://yoursite.com/2020/05/14/hello-world/</id>
+    <link href="http://wangzx12321.github.io/2020/05/14/hello-world/"/>
+    <id>http://wangzx12321.github.io/2020/05/14/hello-world/</id>
     <published>2020-05-14T13:08:14.006Z</published>
     <updated>2020-05-14T13:08:14.006Z</updated>
     
