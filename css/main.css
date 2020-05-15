@@ -2335,7 +2335,7 @@ hr {
 .menu .menu-item .badge {
   background: #fff;
   border-radius: 10px;
-  color: #87daff;
+  color: #555;
   padding: 1px 4px;
   text-shadow: 1px 1px 0 rgba(0,0,0,0.1);
 }
